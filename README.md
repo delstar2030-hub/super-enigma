@@ -1,6 +1,9 @@
 # Super-Enigma
 
-Welcome to **Super-Enigma** 🎉  
+##Welcome to **Super-Enigma** 🎉
+
+
+….  
 This is a dummy README file created for testing and setup purposes.
 
 ---
@@ -12,7 +15,7 @@ Feel free to edit, expand, and replace this content with real project details.
 ---
 
 ## 🚀 Features
-- Dummy text for demonstration
+1.  Dummy text for demonstration
 - Basic project structure
 - Example sections for customization
 
